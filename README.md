@@ -38,7 +38,8 @@ An interactive K-Means Clustering calculator built as part of my Machine Learnin
 
 ##  Screenshots
 
-> Coming soon — screenshots of the iteration tables and cluster graph in action.
+![Iteration Table](screenshots/P1.png)
+![Cluster Graph](screenshots/P2.png)
 
 ---
 
