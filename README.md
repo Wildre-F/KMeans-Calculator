@@ -38,8 +38,8 @@ An interactive K-Means Clustering calculator built as part of my Machine Learnin
 
 ##  Screenshots
 
-![alt text](screenshots/P1.png)
-![alt text](screenshots/P2.png)
+![alt text](screenshots/P1.PNG)
+![alt text](screenshots/P2.PNG)
 
 ---
 
