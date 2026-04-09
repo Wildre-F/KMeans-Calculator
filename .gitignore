@@ -1,0 +1,6 @@
+*.user
+*.sqlite
+VSWorkspaceState.json
+bin/
+obj/
+.vs/
